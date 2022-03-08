@@ -22,5 +22,5 @@
 </ul>	
 <br>
 <br>
-[ CODE OF CONDUCT ](https://github.com/open-source-learners/.github/blob/main/profile/CODE_OF_CONDUCT.md)
+[CODE_OF_CONDUCT.md](https://github.com/open-source-learners/.github/blob/main/profile/)
 
