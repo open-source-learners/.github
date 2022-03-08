@@ -23,5 +23,5 @@
 <br>
 <br>
 <hr>
-[CODE OF CONDUCT.md](https://github.com/open-source-learners/.github/blob/main/profile/CODE_OF_CONDUCT.md)
+# Our code   [CODE OF CONDUCT.md](https://github.com/open-source-learners/.github/blob/main/profile/CODE_OF_CONDUCT.md)
 
