@@ -1,4 +1,4 @@
-# 
+
 <h1 style="text-align: center;">open-source-learners </h1>
 <br><br>
 <p>
@@ -24,10 +24,4 @@
 <br>
 <hr>
 <h2><a href="CODE_OF_CONDUCT.md">CODE OF CONDUCT</a></h2>
-
-
-
-
-
-
 
