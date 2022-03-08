@@ -23,5 +23,5 @@
 <br>
 <br>
 <hr>
-<h2><a href="CODE_OF_CONDUCT.md">CODE OF CONDUCT</a></h2>
+[CODE OF CONDUCT.md](https://github.com/open-source-learners/.github/blob/main/profile/CODE_OF_CONDUCT.md)
 
