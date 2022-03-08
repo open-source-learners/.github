@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center;">open-source-learners </h1>
 
-![alt text]()
+![alt text](https://github.com/open-source-learners/.github/blob/main/profile/logo.png)
 <p>
 	its a welcoming inclusive community of tech enthusiasts, Advocate, expert, and learners.    
 </p>
