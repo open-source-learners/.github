@@ -22,5 +22,5 @@
 </ul>	
 <br>
 <br>
-[ CODE OF CONDUCT ](/.github/blob/main/profile/CODE_OF_CONDUCT.)
+[ CODE OF CONDUCT ](/blob/main/profile/CODE_OF_CONDUCT.)
 
