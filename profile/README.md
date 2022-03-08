@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center;">open-source-learners </h1>
 
-<p align="left">
+<p align="right">
 	<img src="https://github.com/open-source-learners/.github/blob/main/profile/logo.png" width="128"/>
 </p>
 
